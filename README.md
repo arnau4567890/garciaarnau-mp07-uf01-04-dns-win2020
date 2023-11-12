@@ -5,7 +5,7 @@ Pas 1: Obtencio del vostre domini per aquesta activitat
 |Domini|Valor|Comentari|
 |---|---||---|
 |Domini principal||.cat | en aquest cas es el territorial , pero tambe hi ha el .com, .es, .net, .org, .etc.|
-|El vostre cognom|puriy|On s'identifica el grup amb el vostre cognom|
+|El vostre cognom|garcia|On s'identifica el grup amb el vostre cognom|
 
 
 Pas 2: Obtencio dels vostres registres de tipus A.
