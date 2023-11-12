@@ -29,3 +29,14 @@ Pas 2: Obtencio dels vostres registres de tipus A.
 |lepan|80.80.80.81|
 
 
+Pas 3:Creem el Cname i Ptr 
+[![crear cname i ptr](https://github.com/arnau4567890/garciaarnau-mp07-uf01-04-dns-win2020/blob/main/cname.png)
+[![crear cname i ptr](https://github.com/arnau4567890/garciaarnau-mp07-uf01-04-dns-win2020/blob/main/pr.png)
+
+Pas 4:Creem els registres mx
+
+[![crear cname i ptr](https://github.com/arnau4567890/garciaarnau-mp07-uf01-04-dns-win2020/blob/main/mx.png)
+
+Pas 5 Fem nslookup:
+
+[![crear cname i ptr](https://github.com/arnau4567890/garciaarnau-mp07-uf01-04-dns-win2020/blob/main/ns.png)
